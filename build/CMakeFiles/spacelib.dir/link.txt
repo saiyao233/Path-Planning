@@ -1,0 +1,2 @@
+/usr/bin/ar qc libspacelib.a CMakeFiles/spacelib.dir/space.cu.o
+/usr/bin/ranlib libspacelib.a
